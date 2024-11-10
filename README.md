@@ -4,7 +4,7 @@
 
 
 ## 📝 Project Overview
-
+The Social Media Admin Dashboard is a web-based application designed for social media platform administrators. The dashboard provides tools to monitor, analyze, and manage content, users, and overall engagement. It enables admins to track user activities, perform content moderation, and generate insightful reports on key performance metrics such as engagement, followers, and post reach. The goal is to centralize and simplify the management of social media platforms, enhancing administrative productivity and improving decision-making processes.
 
 
 ## 🌟 Key Features
